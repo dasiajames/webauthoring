@@ -1,0 +1,43 @@
+<html>
+<head>
+    <title>2 Egg Breakfast and Sausage</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.0/css/bootstrap.min.css" integrity="sha384-9gVQ4dYFwwWSjIDZnLEWnxCjeSWFphJiwGPXr1jddIhOegiu1FwO5qRGvFXOdJZ4" crossorigin="anonymous">
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.0/umd/popper.min.js" integrity="sha384-cs/chFZiN24E4KMATLdqdvsezGxaGsi4hLGOzlXwp5UZB1LY//20VyM2taTB4QvJ" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.0/js/bootstrap.min.js" integrity="sha384-uefMccjFJAIv6A+rW+L4AHf99KvxDjWSu1z9VI8SKNVmz4sk7buKt/6v9KI65qnm" crossorigin="anonymous"></script>
+</head>
+<body>
+<div class="card-header">
+<h1>2 Egg Breakfast and Sausage </h1></div>
+<p> Growing up, I never knew how to cook. When I finally learned, the easiest thing for me to learn was eggs and sausage. So everytime I cooked breakfast for family I was responsible for the eggs and sausage.
+ I usually eat this meal as a quick breakfast option. Today, I will be sharing these ingredients. </p>
+  
+  <center> <h2 class="card-title"> Ingredients</h2> </center>
+<ul>
+ <li class="list-group-item">2 eggs</li> 
+    <li class="list-group-item">2 tablespoons of butter</li>
+    <li class="list-group-item">2 tps of salt</li>
+    <li class="list-group-item">2 tsp of pepper</li>
+    <li class="list-group-item">13oz Sausage</li>
+ 
+</ul>
+  <center> <h2 class="card-title">What To Do</h2> </center>
+<ol>
+    <li>Turn on the skillet for eggs</li>
+    <li> Put 2 Tablespoons of butter in the skillet to melt</li>
+    <li>Add 2 eggs to skillet</li>
+    <li>Add 2 tsp of salt</li>
+    <li>Add 2 tsp of pepper</li>
+    <li>While eggs cook, turn on second skillet for sausage</li> 
+    <li>Stir the eggs until they begin to scramble</li>
+    <li>Turn sausages over until they are brown on both sides</li>  
+    <li>Reduce heat, Plate and Serve</li> 
+ 
+    </ol>
+    
+<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.0/umd/popper.min.js" integrity="sha384-cs/chFZiN24E4KMATLdqdvsezGxaGsi4hLGOzlXwp5UZB1LY//20VyM2taTB4QvJ" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.0/js/bootstrap.min.js" integrity="sha384-uefMccjFJAIv6A+rW+L4AHf99KvxDjWSu1z9VI8SKNVmz4sk7buKt/6v9KI65qnm" crossorigin="anonymous"></script>
+
+</body>
+</html>
