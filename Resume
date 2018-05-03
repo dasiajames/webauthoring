@@ -1,0 +1,112 @@
+<html>
+<head>
+<title>Hello, World!</title>
+</head>
+<body>
+  
+  <center> <h1 id="name">Dasia James </h1> </center>
+  <center>
+  <a href="#cs">Objective</a> |
+  <a href="#Edu">Education</a> |
+  <a href="#Exp">Experience</a> |
+  <a href="#Ec">Extra Curricular</a>
+    </h2>
+  </center>
+  
+<span>
+<center>Washington, DC 20002 | (501) 859-7011 | 
+<a href="mailto:dasiajames@yahoo.com"> dasiajames@yahoo.com</a> |
+<a href="https://www.linkedin.com/in/dasia-james-77038486/"   target="_blank"> Dasia's LinkedIn</a></center>
+</span>
+
+<hr size=3; color="black"; width="1300"; >
+  
+  <center> <h2 id="cs">Objective</center> </h2>
+
+</>
+<p>
+Seeking an Internship where I will use my Information Systems background and interpersonal skills to further a company’s growth. A commitment to academic excellence and willingness to seek information and global opportunities have served to provide sustainable business solutions.
+</p>
+<br>
+<hr size=2; color="black"; width="1300"; >
+<h2>
+<center>Technical Skills</center>
+</h2>
+<p>
+<center>Social Media • Mac OSX • Microsoft     Sales • Strategic Analysis SQL • HTML  </center>
+
+</p>
+<hr size=2; color="black"; width="1300"; >
+<h2 id="Edu">
+  <center>Education </center> </h2>
+</>
+<p>
+<b>Howard Universtiy </b>
+<span style="float:right;">May 2019</span>
+<br>
+B.B.A Computer Information Systems
+<span style="float:right;">GPA:3.42</span><br>
+
+<br>
+<hr size=2; color="black"; width="1300"; >
+<center> <h2 id="Exp">Experience</center>
+</h2>
+
+<p>
+<b>Department of Treasury</b> - <i>Digital Team Intern </i>; Washington, D.C <span style="float:right;"> Sep 2016 to Feb 2017</span>
+</p>
+<p>
+  <sl>
+    <li>
+      Served under the Office of Management by assisting with the responsibilities of managing the Department financial resources and overseeing Treasury-wide programs on the Treasury website. 
+    </li>
+    <li>
+Facilitated programs, including human capital, information technology, acquisition and diversity issues.
+    </li>
+  </sl>
+  <p>
+  <b>Texas Roadhouse</b> - <i>Server </i>; Little Rock, AR <span style="float:right;"> Aug 2014 to Aug 2016</span>
+  </p>
+<p>
+<sl>
+<li> 	
+Provided swift, attentive and “legendary service” to all guests to ensure customer retention and a welcoming atmosphere.</li>
+<li>
+Collaborated directly with service managers to ensure upward sales exceeding weekly sales goal of $1,500. </li>
+</sl>
+
+</p>
+<b>City of Little Rock Youth Program</b> - <i> International Consultant </i>; Little Rock, AR <span style="float:right;">  Aug 2013 to Aug 2015</span>
+<p>
+<sl>
+<li> 
+Supervised the City of Little Rock Youth Feeding Program hosted at Arkansas Baptist College feeding breakfast, lunch and dinner to children ages 5-18. 35%</li>
+<li> 	
+Created stimulating, academic programs throughout the week for 45 children ages 5-18. </li>
+</sl>
+</p>
+
+</sl>
+</p>
+<hr size=2; color="black"; width="1300"; >
+<center> <h2 id="Ec">Extra Curricular</center>
+</h2></body>
+
+<b>School of Business Honors Program </b> -  <i>Student Coordinator </i>; Howard University <span style="float:right;"> Aug 2016- Present </span>
+<sl>
+  <li>
+Developed program that allowed students to complete for-credit internships during the semester while leading a team of underclassmen students introducing them to case studies and business communication
+
+  </li>
+</sl>
+<b> Endustry Power Players </b> - <i>Project Management</i>; Howard University<span style="float:right;"> Aug 2014– May 2016 </span>
+<sl>
+  <li>
+Planned events in collaboration with Atlantic Records and BMI, with appearances from major celebrities like Sevyn Streeter, PnB Rock and Catherine Brewton on Howard’s Campus with over 200 attendees
+  </li>
+</sl>
+<body>
+    
+
+  </body>
+  </html>
