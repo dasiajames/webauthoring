@@ -1,0 +1,358 @@
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title> DCJ Website - More </title>
+  </head>
+  <body>
+  
+    <center> 
+     <font size="7"> <h1> Dasia James </h1> </font>
+     <nav> <a href="index.html">Home </a> |<a href="page2.html">About </a>| <a href="page3.html">Contact </a> | <a href="page4.html">Resume </a>| <b> More</b> </nav>
+       
+       </center>
+      <center>
+        <div class="content">
+         <div id="page5">
+           
+          <html>
+    <head><link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="transcript.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    </head>
+<body>
+  <nav id="navbar-example2" class="navbar navbar-light bg-light">
+  <a class="navbar-brand" href="index.html">Home</a>
+  <ul class="nav nav-pills">
+    <li class="nav-item">
+      <a class="nav-link" href="page4.html">Resume</a>
+    </li>
+    <li class="nav-item">
+      <a class="nav-link" href="page5.html">Transcript</a>
+    </li>
+    </ul>
+</nav>
+<h1 class="card">Transcript</h1>
+<table border="1">
+    <tr>
+        <th>Current Program</th>
+    </tr>
+    <tr>
+        <td>B.B.A. Information Systems</td>
+    </tr>
+    <tr>
+        <th>Program:</th>
+        <td>BBA in Comp Info Sys</td>
+    </tr>
+    <tr>
+        <th>College:</th>
+        <td>School of Business</td>
+    </tr>
+    <tr>
+        <th>Major:</th>
+        <td>Computer Information Systems</td>
+    </tr>
+</table></br>
+<h3 class="card">Transfer Credits Accepted</h3>
+<table border="2"
+       >
+<tr>
+  <th>Subject</th>
+  <th>Course</th>
+  <th>Title</th>
+  <th>Grade</th>
+  <th>Credit Hours</th>
+  <th>Quality Points</th>
+</tr>
+<tr>
+    <td>ACCT</td>
+    <td>202</td>
+    <td>Accounting Principles II</td>
+    <td>T</td>
+    <td>3.000</td>
+    <td>0</td>
+</tr>
+<tr>
+    <td>MATH</td>
+    <td>156</td>
+    <td>Calculus I</td>
+    <td>T</td>
+    <td>4.000</td>
+    <td>0</td>
+</tr>
+
+</table></br>
+<table>
+    <tr>
+        <td></td>
+        <th>Attempt Hours</th>
+        <th>Passed Hours</th>
+        <th>Earned Hours</th>
+        <th>GPA Hours</th>
+        <th>Quality Points</th>
+        <th>GPA</th>
+    </tr>
+    <tr>
+        <th>Current Term:</th>
+        <td>7.000</td>
+        <td>7.000</td>
+        <td>7.000</td>
+        <td>0.000</td>
+        <td>0.00</td>
+        <td>0.00</td>
+    </tr>
+    </table></br>
+<h3 class="card">Institution Credit</h3>
+<table border="1">
+    <tr>
+        <th>Term: Fall 2017</th>
+    </tr>
+    <tr>    
+        <th>College:</th>
+        <td>School of Business</td>
+    </tr>
+    <tr>
+        <th>Major:</th>
+        <td>Computer Information Systems</td>
+  </tr>
+     <tr>
+        <th>Student Type:</th>
+        <td>Continuing</td>
+    </tr>
+    <tr>
+        <th>Academic Standing:</th>
+        <td>Good Standing</td>
+    </tr>
+    <tr>
+</table>
+</br>
+<table border="2">
+<tr>
+  <th>Subject</th>
+  <th>Course</th>
+  <th>Campus</th>
+  <th>Level</th>
+  <th>Title</th>
+  <th>Grade</th>
+  <th>Credit Hours</th>
+  <th>Quality Points</th>
+</tr>
+<tr>
+    <td>BCOM</td>
+    <td>320</td>
+    <td>Main</td>
+    <td>UG</td>
+    <td>Business Communications</td>
+    <td>A</td>
+    <td>3.000</td>
+    <td>12.00</td>
+</tr>
+<tr>
+    <td>INFO</td>
+    <td>311</td>
+    <td>Main</td>
+    <td>UG</td>
+    <td>Quan Business Analysis</td>
+    <td>A</td>
+    <td>3.000</td>
+    <td>12.00</td>
+</tr>
+<tr>
+    <td>INFO</td>
+    <td>341</td>
+    <td>Main</td>
+    <td>UG</td>
+    <td>Intro to JAVA Programming</td>
+    <td>B</td>
+    <td>3.000</td>
+    <td>9.00</td>
+</tr>
+<tr>
+    <td>INFO</td>
+    <td>330</td>
+    <td>Main</td>
+    <td>UG</td>
+    <td>Database Management</td>
+    <td>B</td>
+    <td>3.000</td>
+    <td>9.00</td>
+</tr>
+<tr>
+    <td>MGMT</td>
+    <td>301</td>
+    <td>Main</td>
+    <td>UG</td>
+    <td>Management & OB</td>
+    <td>A</td>
+    <td>3.000</td>
+    <td>12.00</td>
+</tr>
+<tr>
+    <td>MKTG</td>
+    <td>301</td>
+    <td>Main</td>
+    <td>UG</td>
+    <td>Principles of Marketing</td>
+    <td>A</td>
+    <td>3.000</td>
+    <td>12.00</td>
+</tr>
+</table></br>
+<table>
+    <tr>
+        <td></td>
+        <th>Attempt Hours</th>
+        <th>Passed Hours</th>
+        <th>Earned Hours</th>
+        <th>GPA Hours</th>
+        <th>Quality Points</th>
+        <th>GPA</th>
+    </tr>
+    <tr>
+        <th>Current Term:</th>
+        <td>18.000</td>
+        <td>18.000</td>
+        <td>18.000</td>
+        <td>18.000</td>
+        <td>66.00</td>
+        <td>3.67</td>
+    </tr>
+    <tr>
+        <th>Cumulative:</th>
+        <td>81.000</td>
+        <td>77.000</td>
+        <td>77.000</td>
+        <td>76.000</td>
+        <td>260.00</td>
+        <td>3.42</td>
+    </tr>
+
+</table></br>
+<h3 class="card">Transcript Totals Undergraduate</h3>
+<table>
+    <tr>
+        <td></td>
+        <th>Attempt Hours</th>
+        <th>Passed Hours</th>
+        <th>Earned Hours</th>
+        <th>GPA Hours</th>
+        <th>Quality Points</th>
+        <th>GPA</th>
+    </tr>
+    <tr>
+        <th>Total Institution:</th>
+        <td>81.000</td>
+        <td>77.000</td>
+        <td>77.000</td>
+        <td>76.000</td>
+        <td>260.00</td>
+        <td>3.42</td>
+    </tr>
+    <tr>
+        <th>Total Transfer:</th>
+        <td>7.000</td>
+        <td>0.000</td>
+        <td>7.000</td>
+        <td>0.000</td>
+        <td>0.00</td>
+        <td>0.00</td>
+    </tr>
+    <tr>
+        <th>Overall</th>
+        <td>88.000</td>
+        <td>77.000</td>
+        <td>84.000</td>
+        <td>76.000</td>
+        <td>260.00</td>
+        <td>3.42</td>
+    </tr>
+</table></br>
+<h3 class="card">Courses in Progress</h3>
+<table border="2">
+    <tr>
+        <th>Term: Spring 2018</th>
+    </tr>
+    <tr>    
+        <th>College:</th>
+        <td>School of Business</td>
+    </tr>
+    <tr>
+        <th>Major:</th>
+        <td>Computer Information Systems</td>
+    </tr>
+     <tr>
+        <th>Student Type:</th>
+        <td>Continuing</td>
+    </tr>
+    <tr>
+        <th>Academic Standing:</th>
+        <td>Good Standing</td>
+    </tr>
+    <tr>
+</table>
+</br>
+<table border="2">
+<tr>
+  <th>Subject</th>
+  <th>Course</th>
+  <th>Campus</th>
+  <th>Level</th>
+  <th>Title</th>
+  <th>Credit Hours</th>
+</tr>
+<tr>
+    <td>BECN</td>
+    <td>330</td>
+    <td>Main</td>
+    <td>UG</td>
+    <td>Managerial Economics</td>
+    <td>3.000</td>
+</tr>
+<tr>
+    <td>INFO</td>
+    <td>325</td>
+    <td>Main</td>
+    <td>UG</td>
+    <td>Intro to Data & Network Comm</td>
+    <td>3.000</td>
+</tr>
+<tr>
+    <td>FINA</td>
+    <td>311</td>
+    <td>Main</td>
+    <td>UG</td>
+    <td>Finance Principles</td>
+    <td>3.000</td>
+
+</tr>
+<tr>
+    <td>INFO</td>
+    <td>387</td>
+    <td>Main</td>
+    <td>UG</td>
+    <td>Web Authoring Tools</td>
+    <td>3.000</td>
+</tr>
+<tr>
+    <td>INFO</td>
+    <td>370</td>
+    <td>Main</td>
+    <td>UG</td>
+    <td>System Analysis & Design</td>
+    <td>3.000</td>
+</tr>
+
+</table>
+
+<style> th {background-color:#A7AFB1  ;}
+  card {background-color:#A7AFB1  ;} </style>
+
+<div class="card text-center">
+    <div class="card">
+      <div class="card-footer">
+        Dasia James @02755061 Transcripts 
+      </div>
+    </div>
+    </div>
+</body>
+</html>
