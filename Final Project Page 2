@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title> - About </title>
+  </head>
+  <body>
+    <center> <font size="7"> <h1> Dasia James </h1> </font>
+      <nav>
+        <font size="4">
+      <a href="index.html">Home |  <b>About</b>  | <a href="page3.html">Contact</a> | <a href="page4.html">Resume</a> | <a href="page5.html">More</a> </font> </nav>
+        </center>
+      <center><h2> About </h2> </center>
+      
+       <div class="content"><!--About-->
+       <div id="page2">
+         <p>     <center> <font size="5"> Hello, my name is Dasia Charkel James, a junior Information Systems major from Little Rock, Arkansas. In high school, I was involved in many activities including drill team, student council, and National Honor’s Society. My senior year, I was captain of the drill team, president of the student body, and a scholarship recipient of Howard University. Freshman year, I was on the Quad Stroll Team and served as Miss Quad. My sophomore year, I was the co-director of the School of Business Student Council Women Empowerment Initiative, a member of National Council of Negro Women, Miss School of Business Runner-up, and a fellow of Young Africana Leadership Initiative. I now serve as Miss Omega Psi Phi Fraternity, Incorporated, Alpha Chapter 2017-2018. I aspire to mentor the underserved young women in my community through my nonprofit titled Secure.    </font>
+      </center> </p>
+    <style>     
+           body {
+    background-image: url("https://ia601502.us.archive.org/5/items/Picture5022/Picture%20502%20(2).jpg");
+    background-repeat: repeat-x;
+}
+      body {
+        color: White;
+         padding: 10;
+         margin: 5;
+        font-family: "Apple Chancery", vintage;
+}
+      }
+         </style> 
+         
+         <br>
+         <br>
+    </div>
+   
+  <br>
+  
+    <br>
+  
+    <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+   
+   <footer> Dasia James </footer>
+   </div>
+      
+        
+  </body>
+</html>
